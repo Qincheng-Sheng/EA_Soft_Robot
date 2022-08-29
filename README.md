@@ -1,2 +1,2 @@
-# softrobot
+# Soft Robot
 MECS course project 
