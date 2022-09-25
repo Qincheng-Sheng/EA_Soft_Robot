@@ -2,10 +2,7 @@
 
 MECS4510 course Evolutionary Computation & Design Assignment 3 led by Professor Hod Lipson
 
-## Project Presentation in Youtube
-https://youtu.be/2ys7bdeC44U
-
-## Steps 
+## Steps of Evolving Soft Robots Using Genetic Algorithms
 3a Develop a 3D physics simulator
 
   Demonstrate a bouncing cube and a “breathing” cube
@@ -15,5 +12,4 @@ https://youtu.be/2ys7bdeC44U
   Manually design a robot, evolve a controller to make it move
   
 3c Evolve both the shape and behavior of a robot
-
   Demonstrate a moving robot of various shapes and behavoors
