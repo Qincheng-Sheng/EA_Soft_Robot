@@ -1,5 +1,7 @@
 # Soft Robot
-MECS course project Assignment 3
+
+## MECS course Evolutionary Computation & Design Assignment 3 led by Professor Hod Lipson
+
 •3a Develop a 3D physics simulator
   Demonstrate a bouncing cube and a “breathing” cube
 •3b Evolve a fixed shape robot
