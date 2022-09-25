@@ -3,7 +3,7 @@
 MECS4510 course Evolutionary Computation & Design Assignment 3 led by Professor Hod Lipson
 
 <p align="center">
-        <img src="https://github.com/Qincheng-Sheng/EA_Soft_Robot/blob/main/Fast robot.gif" alt="system" width= "350" />
+        <img src="https://github.com/Qincheng-Sheng/EA_Soft_Robot/blob/main/Fast%20robot.gif" alt="system" width= "400" />
 </p>
 
 ## Three Steps of Evolving Soft Robots Using GA
