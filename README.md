@@ -2,6 +2,10 @@
 
 MECS4510 course Evolutionary Computation & Design Assignment 3 led by Professor Hod Lipson
 
+<p align="center">
+        <img src="https://github.com/Qincheng-Sheng/EA_Soft_Robot/blob/main/Fast robot.gif" alt="system" width= "350" />
+</p>
+
 ## Three Steps of Evolving Soft Robots Using GA
 A. Develop a 3D physics simulator
    - Demonstrate a bouncing cube and a “breathing” cube
