@@ -1,7 +1,11 @@
 # Evolving Soft Robots Using Genetic Algorithms
 
-## MECS course Assignment 3 led by Professor Hod Lipson
+MECS4510 course Evolutionary Computation & Design Assignment 3 led by Professor Hod Lipson
 
+## Project Presentation in Youtube
+https://youtu.be/2ys7bdeC44U
+
+## Steps 
 3a Develop a 3D physics simulator
 
   Demonstrate a bouncing cube and a “breathing” cube
