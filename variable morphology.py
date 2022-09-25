@@ -61,7 +61,7 @@ damping = 0.9999
 friction_mu_s = 1
 friction_mu_k = 0.8
 ts = 1500
-evaluation_num = 200
+evaluation_num = 1
 
 global_k = [1000, 20000, 5000, 5000]
 global_w = np.pi * 2 / 500
